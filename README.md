@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MisterToken2000
 - 👀 I’m interested in Python programming
 - 🌱 I’m learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on telegram @Unralf
+- 📫 How to reach me ???
+- 😄 Pronouns: You
 - ⚡ Fun fact: me is Bobra
 
 <!---
