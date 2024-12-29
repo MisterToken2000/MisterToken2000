@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MisterToken2000
-- 👀 I’m interested in Python programming
-- 🌱 I’m learning Python
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me telegram: @Unralf
+- 👀 I’m interested in Python Assembler, C/C++ programming
+- 🌱 I’m learning Python, Assembler, C/C++ programming
+- 💞️ I’m looking to collaborate on Linus Torvalds
+- 📫 How to reach me in telegram: @Unralf
 - 😄 Pronouns: You
 - ⚡ Fun fact: me is Bobra
 
