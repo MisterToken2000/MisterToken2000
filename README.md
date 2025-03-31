@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Assembler, C/C++ programming
 - 🌱 I’m learning Python, Assembler, C/C++ programming
 - 💞️ I’m looking to collaborate on Linus Torvalds
-- 📫 How to reach me in telegram: @Unralf
+<!--- - 📫 How to reach me in telegram: @Unralf --->
 - 😄 Pronouns: You
 - ⚡ Fun fact: me is Bobra
 
